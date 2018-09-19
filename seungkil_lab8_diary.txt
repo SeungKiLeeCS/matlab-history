@@ -1,0 +1,98 @@
+seungkil_lab8_diary
+  Name             Size            Bytes  Class     Attributes
+
+  A                5x2                80  double              
+  A_2              5x3               120  double              
+  A_3              5x4               160  double              
+  A_t              2x5                80  double              
+  A_t2             3x5               120  double              
+  A_t3             4x5               160  double              
+  C                1x1                 8  double              
+  C_0              1x1                 8  double              
+  C_1              1x1                 8  double              
+  C_2              1x1                 8  double              
+  D                1x1                 8  double              
+  D_0              1x1                 8  double              
+  D_1              1x1                 8  double              
+  D_2              1x1                 8  double              
+  E_0              1x1                 8  double              
+  E_1              1x1                 8  double              
+  E_Cube           1x1                 8  double              
+  E_Linear         1x1                 8  double              
+  E_Quad           1x1                 8  double              
+  Fv            4696x1             37568  double              
+  G_0              1x1                 8  double              
+  M                1x1                 8  double              
+  V             4696x1             37568  double              
+  X_cd             2x3                48  double              
+  ans              3x1                24  double              
+  avec             5x1                40  double              
+  avec_2           5x1                40  double              
+  avec_3           5x1                40  double              
+  bvec             5x1                40  double              
+  comb_a3          4x4               128  double              
+  comb_b3          4x1                32  double              
+  x_cde            3x4                96  double              
+  x_cdeg           4x5               160  double              
+  x_hat            2x3                48  double              
+  x_hat1           2x3                48  double              
+  x_hat2           3x4                96  double              
+  x_hat3           4x5               160  double              
+  y             4696x1             37568  double              
+  y_1           4696x1             37568  double              
+  y_2           4696x1             37568  double              
+
+
+E_Linear =
+
+    0.1600
+
+
+C_1 =
+
+   -0.0824
+
+
+D_1 =
+
+   -0.0107
+
+
+E_0 =
+
+     0
+
+
+E_Quad =
+
+    0.1036
+
+
+C_2 =
+
+    0.0407
+
+
+D_2 =
+
+   -9.7932
+
+
+E_1 =
+
+  -5.3000e-04
+
+
+G_0 =
+
+     0
+
+
+E_Cube =
+
+   2.9806e+05
+
+% The number shows drastic change; More so than the difference between
+% Linear and Quad.
+echo off
+diary off
