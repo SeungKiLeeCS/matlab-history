@@ -1,0 +1,9 @@
+%% Practice run 
+
+clc
+clear
+
+N = 'What is the production rate on this day?'
+
+x = input(N)
+y = functiox
